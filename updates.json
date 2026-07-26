@@ -6,5 +6,13 @@
     "sha256": "e720a21ab46bf90986e5da15fc6b3ad590bcef124af2d1ceb78b06141ff6112d",
     "sizeBytes": 387371436,
     "notes": "Число пропущенных напоминаний на иконке приложения и обновление прямо из приложения."
+  },
+  "com.seluk.healthdiary": {
+    "versionCode": 13,
+    "versionName": "2.1-injection-fix",
+    "apkUrl": "https://github.com/seliuksa1982/selena-updates/releases/download/personal-v13/selena-personal-2.1-injection-fix.apk",
+    "sha256": "5600998cc563dd56d8d50ef0aac1c76333b71630eaa03c4fc59ab506fc8a6f9e",
+    "sizeBytes": 393789362,
+    "notes": "Исправлено срабатывание напоминания о плановой инъекции биопрепарата (после ребута/энергосбережения). Деперсонализация. Безопаснее обновления и резервные копии."
   }
 }
