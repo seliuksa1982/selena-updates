@@ -1,18 +1,18 @@
 {
   "com.seluk.selena.family": {
-    "versionCode": 11,
-    "versionName": "1.10-hardening",
-    "apkUrl": "https://github.com/seliuksa1982/selena-updates/releases/download/family-v11/selena-family-1.10-hardening.apk",
-    "sha256": "0c96abfc482c7e86680da9ccd133a4612641cd2d2ebd60b4803abc8d3226a269",
+    "versionCode": 12,
+    "versionName": "1.11-voice-asr",
+    "apkUrl": "https://github.com/seliuksa1982/selena-updates/releases/download/family-v12/selena-family-1.11-voice-asr.apk",
+    "sha256": "d5f2cd1dfda3d8aa7d6ef22b6dba7245cc21ec565f079dacb05244694bb4809d",
     "sizeBytes": 387371440,
-    "notes": "Приватное хранение фото дневника, проверка целостности резервных копий, безопаснее обновления, надёжность напоминаний по интервалу."
+    "notes": "Улучшено распознавание речи: фраза больше не режется на куски и не теряет тихие/хвостовые слова — точнее интервалы и повторы в голосовых напоминаниях."
   },
   "com.seluk.healthdiary": {
-    "versionCode": 13,
-    "versionName": "2.1-injection-fix",
-    "apkUrl": "https://github.com/seliuksa1982/selena-updates/releases/download/personal-v13/selena-personal-2.1-injection-fix.apk",
-    "sha256": "5600998cc563dd56d8d50ef0aac1c76333b71630eaa03c4fc59ab506fc8a6f9e",
-    "sizeBytes": 393789362,
-    "notes": "Исправлено срабатывание напоминания о плановой инъекции биопрепарата (после ребута/энергосбережения). Деперсонализация. Безопаснее обновления и резервные копии."
+    "versionCode": 14,
+    "versionName": "2.2-voice-asr",
+    "apkUrl": "https://github.com/seliuksa1982/selena-updates/releases/download/personal-v14/selena-personal-2.2-voice-asr.apk",
+    "sha256": "dd4c69d298a3658c9f3a98e9c852d02a0d843ef9c114478fc1a2196074e065ac",
+    "sizeBytes": 393805746,
+    "notes": "Улучшено распознавание речи: фраза больше не режется на куски и не теряет тихие/хвостовые слова — точнее интервалы и повторы в голосовых напоминаниях."
   }
 }
