@@ -1,18 +1,18 @@
 {
   "com.seluk.selena.family": {
-    "versionCode": 12,
-    "versionName": "1.11-voice-asr",
-    "apkUrl": "https://github.com/seliuksa1982/selena-updates/releases/download/family-v12/selena-family-1.11-voice-asr.apk",
-    "sha256": "d5f2cd1dfda3d8aa7d6ef22b6dba7245cc21ec565f079dacb05244694bb4809d",
-    "sizeBytes": 387371440,
-    "notes": "Улучшено распознавание речи: фраза больше не режется на куски и не теряет тихие/хвостовые слова — точнее интервалы и повторы в голосовых напоминаниях."
+    "versionCode": 13,
+    "versionName": "1.12-nav",
+    "apkUrl": "https://github.com/seliuksa1982/selena-updates/releases/download/family-v13/selena-family-1.12-nav.apk",
+    "sha256": "a14bd785c738e4812175c920a467a6fb7a849c8b9ae49dda5e3cbc0420fd8893",
+    "sizeBytes": 387387820,
+    "notes": "Нижнее меню: подписи вкладок влезают в один ряд (компактный шрифт), больше не обрезаются."
   },
   "com.seluk.healthdiary": {
-    "versionCode": 14,
-    "versionName": "2.2-voice-asr",
-    "apkUrl": "https://github.com/seliuksa1982/selena-updates/releases/download/personal-v14/selena-personal-2.2-voice-asr.apk",
-    "sha256": "dd4c69d298a3658c9f3a98e9c852d02a0d843ef9c114478fc1a2196074e065ac",
+    "versionCode": 15,
+    "versionName": "2.3-nav",
+    "apkUrl": "https://github.com/seliuksa1982/selena-updates/releases/download/personal-v15/selena-personal-2.3-nav.apk",
+    "sha256": "ccd06dad78648848edd1e0f119ce124f3b35b59dfefde746a5a36d4879ffdc16",
     "sizeBytes": 393805746,
-    "notes": "Улучшено распознавание речи: фраза больше не режется на куски и не теряет тихие/хвостовые слова — точнее интервалы и повторы в голосовых напоминаниях."
+    "notes": "Нижнее меню: подписи вкладок влезают в один ряд (компактный шрифт), больше не обрезаются."
   }
 }
