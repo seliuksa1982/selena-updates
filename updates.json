@@ -1,34 +1,34 @@
 {
-  "com.seluk.selena.family": {
-    "versionCode": 14,
-    "versionName": "1.13-universal-ui",
-    "apkUrl": "https://github.com/seliuksa1982/selena-updates/releases/download/family-v14/selena-family-1.13-universal-ui.apk",
-    "sha256": "05ba9dd05e9e3bc6055008ea72f54d3e7756bfcb85f616f4c5ef2584e4c8a10d",
-    "sizeBytes": 388271184,
-    "notes": "Новый интерфейс: нижняя панель Дашборд · Сегодня · Цикл · Лекарства · Ещё (каталог разделов с настройкой видимости). На дашборде — доска напоминаний с кнопками «Сделал»/«Отложить» и «Спросить у AI». Процедуры (гемоэксфузия, инъекции, визиты) редактируются. Напоминания разбираются и без ИИ. Точные будильники на Android 14+. Убран Huawei Health."
-  },
-  "com.seluk.healthdiary": {
-    "versionCode": 15,
-    "versionName": "2.3-nav",
-    "apkUrl": "https://github.com/seliuksa1982/selena-updates/releases/download/personal-v15/selena-personal-2.3-nav.apk",
-    "sha256": "ccd06dad78648848edd1e0f119ce124f3b35b59dfefde746a5a36d4879ffdc16",
-    "sizeBytes": 393805746,
-    "notes": "Нижнее меню: подписи вкладок влезают в один ряд (компактный шрифт), больше не обрезаются."
-  },
-  "com.seluk.selena": {
-    "versionCode": 10,
-    "versionName": "1.2.2",
-    "apkUrl": "https://github.com/seliuksa1982/selena-updates/releases/download/selena-v10/selena-1.2.2.apk",
-    "sha256": "61aae66b03dbd3f864adf710030bed68169db3b8cbd216d01caba56dc1f7f738",
-    "sizeBytes": 67937804,
-    "notes": "Исправлено «каждые 10 минут, пока не сделаю»: повторы прекращаются после выполнения. Для старого напоминания: Изменить → «Повторять до Сделал» → Сохранить. Ежедневный график сохраняет следующий дневной срок."
-  },
-  "ru.selena2000.app": {
-    "versionCode": 21,
-    "versionName": "1.2.13",
-    "apkUrl": "https://github.com/seliuksa1982/selena-updates/releases/download/selena-v21/selena-1.2.13.apk",
-    "sha256": "1a47e87a30fe303bd478d03ab773220c85f541d37022383b9a09500ce6ffe4bb",
-    "sizeBytes": 68041236,
-    "notes": "Напоминания 2.0: создание голосом в 1 нажатие (автоотправка паузой), действия «Сделал» / «Отложить» / «Перенести» в 1 нажатие на любой срок (включая уведомления, полноэкранный сигнал и виджет), гибкие циклы повторений (интервалы, слоты дня, дни недели, ежемесячно, «пока не сделаю») и единый контур с лекарствами и процедурами."
-  }
+    "com.seluk.selena.family":  {
+                                    "versionCode":  14,
+                                    "versionName":  "1.13-universal-ui",
+                                    "apkUrl":  "https://github.com/seliuksa1982/selena-updates/releases/download/family-v14/selena-family-1.13-universal-ui.apk",
+                                    "sha256":  "05ba9dd05e9e3bc6055008ea72f54d3e7756bfcb85f616f4c5ef2584e4c8a10d",
+                                    "sizeBytes":  388271184,
+                                    "notes":  "Новый интерфейс: нижняя панель Дашборд · Сегодня · Цикл · Лекарства · Ещё (каталог разделов с настройкой видимости). На дашборде — доска напоминаний с кнопками «Сделал»/«Отложить» и «Спросить у AI». Процедуры (гемоэксфузия, инъекции, визиты) редактируются. Напоминания разбираются и без ИИ. Точные будильники на Android 14+. Убран Huawei Health."
+                                },
+    "com.seluk.healthdiary":  {
+                                  "versionCode":  15,
+                                  "versionName":  "2.3-nav",
+                                  "apkUrl":  "https://github.com/seliuksa1982/selena-updates/releases/download/personal-v15/selena-personal-2.3-nav.apk",
+                                  "sha256":  "ccd06dad78648848edd1e0f119ce124f3b35b59dfefde746a5a36d4879ffdc16",
+                                  "sizeBytes":  393805746,
+                                  "notes":  "Нижнее меню: подписи вкладок влезают в один ряд (компактный шрифт), больше не обрезаются."
+                              },
+    "com.seluk.selena":  {
+                             "versionCode":  10,
+                             "versionName":  "1.2.2",
+                             "apkUrl":  "https://github.com/seliuksa1982/selena-updates/releases/download/selena-v10/selena-1.2.2.apk",
+                             "sha256":  "61aae66b03dbd3f864adf710030bed68169db3b8cbd216d01caba56dc1f7f738",
+                             "sizeBytes":  67937804,
+                             "notes":  "Исправлено «каждые 10 минут, пока не сделаю»: повторы прекращаются после выполнения. Для старого напоминания: Изменить → «Повторять до Сделал» → Сохранить. Ежедневный график сохраняет следующий дневной срок."
+                         },
+    "ru.selena2000.app":  {
+                              "versionCode":  22,
+                              "versionName":  "1.2.14",
+                              "apkUrl":  "https://github.com/seliuksa1982/selena-updates/releases/download/selena-v22/selena-1.2.14.apk",
+                              "sha256":  "622b986eec890cdd9ac7fe705af5316d65a80117dc87f9f5a1e2c32e8b8aeba3",
+                              "sizeBytes":  68074004,
+                              "notes":  "Напоминания 2.0: создание голосом в 1 нажатие (автоотправка паузой), действия «Сделал» / «Отложить» / «Перенести» в 1 нажатие на любой срок (включая уведомления, полноэкранный сигнал и виджет), гибкие циклы повторений (интервалы, слоты дня, дни недели, ежемесячно, «пока не сделаю») и единый контур с лекарствами и процедурами."
+                          }
 }
