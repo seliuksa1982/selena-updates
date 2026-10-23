@@ -27,8 +27,8 @@
     "versionCode": 23,
     "versionName": "1.2.15",
     "apkUrl": "https://github.com/seliuksa1982/selena-updates/releases/download/selena-v23/selena-1.2.15.apk",
-    "sha256": "9bf22ce455c590b4fe3eeaecffd78ca641638b7439f4f8bbf5257bf3fa07e364",
-    "sizeBytes": 68094484,
+    "sha256": "3804337abc4ffa199d300c530acb24bb8b33cc21df002df193de5695edd12962",
+    "sizeBytes": 68212435,
     "notes": "Напоминания 2.0: быстрые карточки создания, план недели (7 дней), настраиваемые слоты дня (Утро/День/Вечер/Ночь), режим «Пока не сделаю» с автоостановкой и лимитом, проверка надёжности доставки в фоне."
   }
 }
